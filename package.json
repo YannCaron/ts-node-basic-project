@@ -12,7 +12,7 @@
     "test": "jest --watchAll --coverage"
   },
   "keywords": [],
-  "author": "",
+  "author": "CyaNn",
   "license": "ISC",
   "devDependencies": {
     "@types/jest": "^29.5.12",
