@@ -7,9 +7,9 @@
   "scripts": {
     "start": "node --loader ts-node/esm index.ts",
     "dev": "npx nodemon index.ts",
-    "prepublish": "tsc",
     "build": "tsc",
-    "test": "jest --watchAll --coverage"
+    "test": "jest --watchAll --coverage",
+    "publish": "npm publish --access public"
   },
   "keywords": [],
   "author": "CyaNn",
